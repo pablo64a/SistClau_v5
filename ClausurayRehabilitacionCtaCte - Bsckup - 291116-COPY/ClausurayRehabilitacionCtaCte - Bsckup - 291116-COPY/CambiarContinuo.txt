@@ -1,0 +1,79 @@
+//CAMBIAR EN ELE SISTEMA EN LA MAQUINA 28 
+
+/************************************************************************************************/
+FORMULARIO PRINCIPAL
+-> el metodo poner en el Timer de hora para que cada 1000 (Un segundo se actualice)
+/************************************************************************************************/
+/************************************************************************************************/
+
+ actualiza_horarios(DateTime.Today);
+if (hora_sist == "12:00:00" && nivel_usr < 3 && dia_habil(DateTime.Today.ToString("yyyyMMdd")) && hora_sistema_aux.Equals("PM") )
+            {
+                //Prueba1.Text = DateTime.Now.AddDays(-3).ToLongDateString();
+                cargar_principal("<br><br>Descripción tecnica:<br>", DateTime.Today);
+                
+            } 
+ /***********************************************************************************************/
+
+
+private void actualiza_horarios(DateTime dia_hoy)
+        {
+            SqlCommand cmdh = new SqlCommand("sp_cargar_principal", cone);
+            cmdh.CommandType = CommandType.StoredProcedure;
+            SqlParameter h11 = cmdh.Parameters.Add("@h11", SqlDbType.VarChar, 8);
+            h11.Direction = ParameterDirection.Output;
+            SqlParameter h12 = cmdh.Parameters.Add("@h12", SqlDbType.VarChar, 8);
+            h12.Direction = ParameterDirection.Output;
+            SqlParameter r1 = cmdh.Parameters.Add("@r1", SqlDbType.VarChar, 3);
+            r1.Direction = ParameterDirection.Output;
+            SqlParameter h21 = cmdh.Parameters.Add("@h21", SqlDbType.VarChar, 8);
+            h21.Direction = ParameterDirection.Output;
+            SqlParameter h22 = cmdh.Parameters.Add("@h22", SqlDbType.VarChar, 8);
+            h22.Direction = ParameterDirection.Output;
+            SqlParameter r2 = cmdh.Parameters.Add("@r2", SqlDbType.VarChar, 3);
+            r2.Direction = ParameterDirection.Output;
+            SqlParameter h31 = cmdh.Parameters.Add("@h31", SqlDbType.VarChar, 8);
+            h31.Direction = ParameterDirection.Output;
+            SqlParameter h32 = cmdh.Parameters.Add("@h32", SqlDbType.VarChar, 8);
+            h32.Direction = ParameterDirection.Output;
+            SqlParameter h33 = cmdh.Parameters.Add("@h33", SqlDbType.VarChar, 8);
+            h33.Direction = ParameterDirection.Output;
+
+
+            try
+            {
+                cone.Open();
+                cmdh.ExecuteNonQuery();
+                hora_proceso1i = (string)cmdh.Parameters["@h11"].Value;
+                hora_proceso1f = (string)cmdh.Parameters["@h12"].Value;
+                hora_proceso1r = (string)cmdh.Parameters["@r1"].Value;
+                hora_proceso2i = (string)cmdh.Parameters["@h21"].Value;
+                hora_proceso2f = (string)cmdh.Parameters["@h22"].Value;
+                hora_proceso2r = (string)cmdh.Parameters["@r2"].Value;
+                hora_proceso31 = (string)cmdh.Parameters["@h31"].Value;
+                hora_proceso32 = (string)cmdh.Parameters["@h32"].Value;
+                hora_proceso33 = (string)cmdh.Parameters["@h33"].Value;
+                cone.Close();
+
+                lblhora1i.Text = hora_proceso1i;
+                lblhora1f.Text = hora_proceso1f;
+                lblhora2i.Text = hora_proceso2i;
+                lblhora2f.Text = hora_proceso2f;
+
+                lblr1.Text = hora_proceso1r + " Min.";
+                lblr2.Text = hora_proceso2r + " Min.";
+                lblhora31.Text = hora_proceso31;
+                lblhora32.Text = hora_proceso32;
+                lblhora33.Text = hora_proceso33;
+                //dia_de_proceso = det_fecha_proceso(dia_hoy.ToString("HH:mm"), DateTime.Today);
+                //lblfechaproceso.Text = dia_de_proceso.Substring(0, 2) + "-" + dia_de_proceso.Substring(2, 2) + "-20" + dia_de_proceso.Substring(4, 2);
+                //lblfechaact.Text = dia_hoy.ToString("dd-MM-yyyy");
+                //dia_proceso = "20" + dia_de_proceso.Substring(4, 2) + dia_de_proceso.Substring(2, 2) + dia_de_proceso.Substring(0, 2);
+                //timer1.Enabled = true;
+                //timer_hora.Enabled = true;
+            }
+            catch (SqlException e1)
+            {
+
+            }
+ }

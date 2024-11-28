@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClausurayRehabilitacionCtaCte", "ClausurayRehabilitacionCtaCte\ClausurayRehabilitacionCtaCte.csproj", "{8EA12433-EDAF-417A-9836-A61C1FF8F5CC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CRCTACTE", "CRCTACTE\CRCTACTE.vdproj", "{3E8A9033-7102-42BD-90BB-A309A4DAC153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EA12433-EDAF-417A-9836-A61C1FF8F5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA12433-EDAF-417A-9836-A61C1FF8F5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA12433-EDAF-417A-9836-A61C1FF8F5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA12433-EDAF-417A-9836-A61C1FF8F5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E8A9033-7102-42BD-90BB-A309A4DAC153}.Debug|Any CPU.ActiveCfg = Debug
+		{3E8A9033-7102-42BD-90BB-A309A4DAC153}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {465BCF1D-10AC-47EB-914F-6D8018ED9F4D}
+	EndGlobalSection
+EndGlobal

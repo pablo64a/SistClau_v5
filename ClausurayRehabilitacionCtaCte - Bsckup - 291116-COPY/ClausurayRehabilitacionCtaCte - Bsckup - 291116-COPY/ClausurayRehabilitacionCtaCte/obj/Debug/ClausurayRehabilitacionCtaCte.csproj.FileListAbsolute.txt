@@ -1,0 +1,419 @@
+C:\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.config
+C:\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe
+C:\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.pdb
+C:\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe
+C:\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.pdb
+C:\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\itextsharp.xml
+C:\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csprojResolveAssemblyReference.cache
+C:\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.FormPrincipal.resources
+C:\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Cambiar_Clave.resources
+C:\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Usuarios.resources
+C:\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Destinatarios.resources
+C:\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_dias.resources
+C:\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Feriados.resources
+C:\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Habilitacion_Reproceso.resources
+C:\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Modificacion_Horarios.resources
+C:\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Ingreso.resources
+C:\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Properties.Resources.resources
+C:\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Reportes.resources
+C:\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.GenerateResource.Cache
+C:\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.ResolveComReference.cache
+\\172.31.15.57\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.config
+\\172.31.15.57\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.ResolveComReference.cache
+\\172.31.15.57\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe
+\\172.31.15.57\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.pdb
+\\172.31.15.57\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe
+\\172.31.15.57\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.pdb
+\\172.31.15.57\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+\\172.31.15.57\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\itextsharp.xml
+\\172.31.15.57\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+\\172.31.15.57\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csprojResolveAssemblyReference.cache
+\\172.31.15.57\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.FormPrincipal.resources
+\\172.31.15.57\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Cambiar_Clave.resources
+\\172.31.15.57\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Usuarios.resources
+\\172.31.15.57\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Destinatarios.resources
+\\172.31.15.57\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_dias.resources
+\\172.31.15.57\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Feriados.resources
+\\172.31.15.57\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Habilitacion_Reproceso.resources
+\\172.31.15.57\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Modificacion_Horarios.resources
+\\172.31.15.57\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Ingreso.resources
+\\172.31.15.57\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Properties.Resources.resources
+\\172.31.15.57\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Reportes.resources
+\\172.31.15.57\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.GenerateResource.Cache
+\\W204PRESTAMO252\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.config
+\\W204PRESTAMO252\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.ResolveComReference.cache
+\\W204PRESTAMO252\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe
+\\W204PRESTAMO252\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.pdb
+\\W204PRESTAMO252\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe
+\\W204PRESTAMO252\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.pdb
+\\W204PRESTAMO252\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+\\W204PRESTAMO252\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\itextsharp.xml
+\\W204PRESTAMO252\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+\\W204PRESTAMO252\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csprojResolveAssemblyReference.cache
+\\W204PRESTAMO252\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.FormPrincipal.resources
+\\W204PRESTAMO252\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Cambiar_Clave.resources
+\\W204PRESTAMO252\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Usuarios.resources
+\\W204PRESTAMO252\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Destinatarios.resources
+\\W204PRESTAMO252\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_dias.resources
+\\W204PRESTAMO252\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Feriados.resources
+\\W204PRESTAMO252\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Habilitacion_Reproceso.resources
+\\W204PRESTAMO252\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Modificacion_Horarios.resources
+\\W204PRESTAMO252\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Ingreso.resources
+\\W204PRESTAMO252\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Properties.Resources.resources
+\\W204PRESTAMO252\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Reportes.resources
+\\W204PRESTAMO252\Users\S56312\Desktop\Pablo\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.GenerateResource.Cache
+D:\Pablo\pablo-sist\Ultima Version\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.config
+D:\Pablo\pablo-sist\Ultima Version\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.ResolveComReference.cache
+D:\Pablo\pablo-sist\Ultima Version\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe
+D:\Pablo\pablo-sist\Ultima Version\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.pdb
+D:\Pablo\pablo-sist\Ultima Version\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe
+D:\Pablo\pablo-sist\Ultima Version\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.pdb
+D:\Pablo\pablo-sist\Ultima Version\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+D:\Pablo\pablo-sist\Ultima Version\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\itextsharp.xml
+D:\Pablo\pablo-sist\Ultima Version\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+D:\Pablo\pablo-sist\Ultima Version\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csprojResolveAssemblyReference.cache
+D:\Pablo\pablo-sist\Ultima Version\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.FormPrincipal.resources
+D:\Pablo\pablo-sist\Ultima Version\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Cambiar_Clave.resources
+D:\Pablo\pablo-sist\Ultima Version\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Usuarios.resources
+D:\Pablo\pablo-sist\Ultima Version\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Destinatarios.resources
+D:\Pablo\pablo-sist\Ultima Version\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_dias.resources
+D:\Pablo\pablo-sist\Ultima Version\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Feriados.resources
+D:\Pablo\pablo-sist\Ultima Version\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Habilitacion_Reproceso.resources
+D:\Pablo\pablo-sist\Ultima Version\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Modificacion_Horarios.resources
+D:\Pablo\pablo-sist\Ultima Version\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Ingreso.resources
+D:\Pablo\pablo-sist\Ultima Version\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Properties.Resources.resources
+D:\Pablo\pablo-sist\Ultima Version\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Reportes.resources
+D:\Pablo\pablo-sist\Ultima Version\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.GenerateResource.Cache
+C:\Users\S57294\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.config
+C:\Users\S57294\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.ResolveComReference.cache
+C:\Users\S57294\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe
+C:\Users\S57294\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.pdb
+C:\Users\S87161\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.config
+C:\Users\S87161\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.ResolveComReference.cache
+C:\Users\S87161\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe
+C:\Users\S87161\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.pdb
+C:\Users\S87161\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe
+C:\Users\S87161\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.pdb
+C:\Users\S87161\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\S87161\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\itextsharp.xml
+C:\Users\S87161\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\S87161\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csprojResolveAssemblyReference.cache
+C:\Users\S87161\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.FormPrincipal.resources
+C:\Users\S87161\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Cambiar_Clave.resources
+C:\Users\S87161\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Usuarios.resources
+C:\Users\S87161\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Destinatarios.resources
+C:\Users\S87161\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_dias.resources
+C:\Users\S87161\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Feriados.resources
+C:\Users\S87161\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Habilitacion_Reproceso.resources
+C:\Users\S87161\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Modificacion_Horarios.resources
+C:\Users\S87161\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Ingreso.resources
+C:\Users\S87161\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Properties.Resources.resources
+C:\Users\S87161\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Reportes.resources
+C:\Users\S87161\Desktop\p\pablo-sist\enviar_sist\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.GenerateResource.Cache
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csprojAssemblyReference.cache
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.pdb
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.config
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.pdb
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\itextsharp.xml
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.ResolveComReference.cache
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.FormPrincipal.resources
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Cambiar_Clave.resources
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Usuarios.resources
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Destinatarios.resources
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_dias.resources
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Feriados.resources
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Habilitacion_Reproceso.resources
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Modificacion_Horarios.resources
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Ingreso.resources
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Properties.Resources.resources
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Reportes.resources
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.GenerateResource.cache
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.CoreCompileInputs.cache
+C:\Users\S87161\Desktop\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.CopyComplete
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.config
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.pdb
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\itextsharp.xml
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csprojAssemblyReference.cache
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.ResolveComReference.cache
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.FormPrincipal.resources
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Cambiar_Clave.resources
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Usuarios.resources
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Destinatarios.resources
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_dias.resources
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Feriados.resources
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Habilitacion_Reproceso.resources
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Modificacion_Horarios.resources
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Ingreso.resources
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Properties.Resources.resources
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Reportes.resources
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.GenerateResource.cache
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.CoreCompileInputs.cache
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.CopyComplete
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe
+D:\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.pdb
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.config
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.pdb
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\itextsharp.xml
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csprojAssemblyReference.cache
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.ResolveComReference.cache
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.FormPrincipal.resources
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Cambiar_Clave.resources
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Usuarios.resources
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Destinatarios.resources
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_dias.resources
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Feriados.resources
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Habilitacion_Reproceso.resources
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Modificacion_Horarios.resources
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Ingreso.resources
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Properties.Resources.resources
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Reportes.resources
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.GenerateResource.cache
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.CoreCompileInputs.cache
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.CopyComplete
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe
+C:\Users\S87161\source\repos\CRCTACTE Funcional\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.pdb
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.config
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.ResolveComReference.cache
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.pdb
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csprojResolveAssemblyReference.cache
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.FormPrincipal.resources
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Cambiar_Clave.resources
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Usuarios.resources
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Destinatarios.resources
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_dias.resources
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Feriados.resources
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Habilitacion_Reproceso.resources
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Modificacion_Horarios.resources
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Ingreso.resources
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Properties.Resources.resources
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Reportes.resources
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.GenerateResource.Cache
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.pdb
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\itextsharp.xml
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.config
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.pdb
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csprojResolveAssemblyReference.cache
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.ResolveComReference.cache
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.FormPrincipal.resources
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Cambiar_Clave.resources
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Usuarios.resources
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Destinatarios.resources
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_dias.resources
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Feriados.resources
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Habilitacion_Reproceso.resources
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Modificacion_Horarios.resources
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Ingreso.resources
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Properties.Resources.resources
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Reportes.resources
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.GenerateResource.Cache
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.pdb
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.manifest
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.application
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.TrustInfo.xml
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe.manifest
+D:\Carlos\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.application
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.config
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.manifest
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.application
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.pdb
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.AssemblyReference.cache
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.ResolveComReference.cache
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.FormPrincipal.resources
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Cambiar_Clave.resources
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Usuarios.resources
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Destinatarios.resources
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_dias.resources
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Feriados.resources
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Habilitacion_Reproceso.resources
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Modificacion_Horarios.resources
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Ingreso.resources
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Properties.Resources.resources
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Reportes.resources
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.GenerateResource.cache
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.CoreCompileInputs.cache
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.TrustInfo.xml
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe.manifest
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.application
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.CopyComplete
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.pdb
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\BouncyCastle.Crypto.dll
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\itextsharp.dll
+D:\Congelados\Carlos\CONTINUA_OFICIAL\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\itextsharp.xml
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.AssemblyReference.cache
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.SuggestedBindingRedirects.cache
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.ResolveComReference.cache
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.FormPrincipal.resources
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Cambiar_Clave.resources
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Usuarios.resources
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Destinatarios.resources
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_dias.resources
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Feriados.resources
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Habilitacion_Reproceso.resources
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Modificacion_Horarios.resources
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Ingreso.resources
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Properties.Resources.resources
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Reportes.resources
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.GenerateResource.cache
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.CoreCompileInputs.cache
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.pdb
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.TrustInfo.xml
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.config
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.manifest
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.application
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.pdb
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\itextsharp.dll
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\itextsharp.xml
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe.manifest
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.application
+C:\Users\S87161\Desktop\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.CopyComplete
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.config
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.manifest
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.application
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.pdb
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\BouncyCastle.Crypto.dll
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\itextsharp.dll
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\itextsharp.xml
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.AssemblyReference.cache
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.ResolveComReference.cache
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.FormPrincipal.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Cambiar_Clave.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Usuarios.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Destinatarios.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_dias.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Feriados.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Habilitacion_Reproceso.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Modificacion_Horarios.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Ingreso.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Properties.Resources.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Reportes.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.GenerateResource.cache
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.CoreCompileInputs.cache
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.TrustInfo.xml
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe.manifest
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.application
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.CopyComplete
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe
+D:\Congelados\CRCTACTE Funcional\Congelado v.3\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.pdb
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.config
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.manifest
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.application
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.pdb
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\BouncyCastle.Crypto.dll
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\itextsharp.dll
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\itextsharp.xml
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.AssemblyReference.cache
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.ResolveComReference.cache
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.FormPrincipal.resources
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Cambiar_Clave.resources
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Usuarios.resources
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Destinatarios.resources
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_dias.resources
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Feriados.resources
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Habilitacion_Reproceso.resources
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Modificacion_Horarios.resources
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Ingreso.resources
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Properties.Resources.resources
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Reportes.resources
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.GenerateResource.cache
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.CoreCompileInputs.cache
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.TrustInfo.xml
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe.manifest
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.application
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.CopyComplete
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe
+\\172.31.15.49\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.pdb
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.config
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.manifest
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.application
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.pdb
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\BouncyCastle.Crypto.dll
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\itextsharp.dll
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\itextsharp.xml
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.AssemblyReference.cache
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.ResolveComReference.cache
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.FormPrincipal.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Cambiar_Clave.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Usuarios.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Destinatarios.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_dias.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Feriados.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Habilitacion_Reproceso.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Modificacion_Horarios.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Ingreso.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Properties.Resources.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Reportes.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.GenerateResource.cache
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.CoreCompileInputs.cache
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.TrustInfo.xml
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe.manifest
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.application
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.CopyComplete
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe
+D:\Congelados\CRCTACTE Funcional\Congelado v.4 - copy\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.pdb
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.config
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe.manifest
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.application
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.exe
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\ClausurayRehabilitacionCtaCte.pdb
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\BouncyCastle.Crypto.dll
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\itextsharp.dll
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\itextsharp.xml
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.AssemblyReference.cache
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.ResolveComReference.cache
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.FormPrincipal.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Cambiar_Clave.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Usuarios.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Destinatarios.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_dias.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Gestion_Feriados.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Habilitacion_Reproceso.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Modificacion_Horarios.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Form_Ingreso.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Properties.Resources.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.Reportes.resources
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.GenerateResource.cache
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.CoreCompileInputs.cache
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.TrustInfo.xml
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe.manifest
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.application
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.csproj.CopyComplete
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.exe
+D:\Congelados\CRCTACTE Funcional\Congelado v.5\2. Fuente\ClausurayRehabilitacionCtaCte - Bsckup - 291116-COPY\ClausurayRehabilitacionCtaCte\obj\Debug\ClausurayRehabilitacionCtaCte.pdb

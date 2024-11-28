@@ -1,0 +1,219 @@
+************************************************************
+boton 3 
+************************************************************
+if (t1.Text.Trim() == "" || t2.Text.Trim() == "")
+            {
+                MessageBox.Show("Debe ingresar los valores de matrícula o contraseña");
+            }
+            else
+            {
+                if (ValidateUserPass(t1.Text, t2.Text))
+                {
+                    acceso1(t1.Text);
+                }
+                else
+                {
+                    MessageBox.Show("Error en el usuario o Contraseña : " + t1.Text, "Autentificación Incorrecta");
+                }
+            }
+/***********************************************************************************************************************/
+
+
+private void acceso1(string userName)
+        {
+            try
+            {
+                if (validacion(userName))
+                {
+                    /*************************** Cambiando login *************************************/
+                    SqlCommand cmd = new SqlCommand("sp_login_modif", cone);
+                    cmd.CommandType = CommandType.StoredProcedure;
+                    cmd.Parameters.Clear();
+                    SqlParameter usuario = new SqlParameter("@usuario", SqlDbType.VarChar);
+                    usuario.Direction = ParameterDirection.Input;
+                    usuario.Value = t1.Text;
+                    cmd.Parameters.Add(usuario);
+                    //SqlParameter clave = new SqlParameter("@clave", SqlDbType.VarChar);
+                    //clave.Direction = ParameterDirection.Input;
+                    //clave.Value = t2.Text;
+                    //cmd.Parameters.Add(clave);
+                    SqlParameter res = new SqlParameter("@resultado", SqlDbType.VarChar, 1);
+                    res.Direction = ParameterDirection.Output;
+                    cmd.Parameters.Add(res);
+                    SqlParameter nomb = new SqlParameter("@nombre", SqlDbType.VarChar, 160);
+                    nomb.Direction = ParameterDirection.Output;
+                    cmd.Parameters.Add(nomb);
+
+                    cone.Open();
+                    cmd.ExecuteNonQuery();
+
+
+                    string nivel = (string)cmd.Parameters["@resultado"].Value;
+                    string nombre = (string)cmd.Parameters["@nombre"].Value;
+
+
+                    //if(ValidateUserPass())
+
+
+
+                    if (nivel == "9")
+                    {
+                        MessageBox.Show("Usuario o Clave incorrecto... Intente otra vez.");
+                        ingreso.logs("ING-02", t1.Text, 1);
+                    }
+                    else
+                    {
+                        if (nivel == "1")
+                        {
+                            ingreso.logs("ING-00", t1.Text, 0);
+                            Program.nivel = Int32.Parse(nivel);
+                            Program.usuario = t1.Text;
+                            MessageBox.Show("Bienvenido al sistema " + nombre);
+                            FormPrincipal fp = new FormPrincipal();
+                            this.Hide();
+                            fp.ShowDialog();
+                            this.Close();
+                        }
+                        else
+                        {
+                            ingreso.logs("ING-03", t1.Text, 0);
+                            MessageBox.Show(" " + nivel);
+                        }
+                    }
+                }
+                else
+                {
+                    //poner aca la Excepcion
+                    MessageBox.Show("Usuario no Autorizado, Contactese con el administrador : " + t1.Text, "Autentificación Incorrecta");
+
+                }
+
+            }
+            catch (SqlException ex)
+            {
+                ingreso.logs("ING-01", t1.Text, 1);
+                MessageBox.Show("Error al intentar ingresar.\n" + ex.Message);
+            }
+            finally
+            {
+                cone.Close();
+            }
+        }
+/***************************************************************************************************************************/
+private void acceso(string userName)
+        {
+            try
+            {
+                if (validacion(userName))
+                {
+                    /*************************** Cambiando login *************************************/
+                    SqlCommand cmd = new SqlCommand("sp_login_modif", cone);
+                    cmd.CommandType = CommandType.StoredProcedure;
+                    cmd.Parameters.Clear();
+                    SqlParameter usuario = new SqlParameter("@usuario", SqlDbType.VarChar);
+                    usuario.Direction = ParameterDirection.Input;
+                    usuario.Value = t1.Text;
+                    cmd.Parameters.Add(usuario);
+                    //SqlParameter clave = new SqlParameter("@clave", SqlDbType.VarChar);
+                    //clave.Direction = ParameterDirection.Input;
+                    //clave.Value = t2.Text;
+                    //cmd.Parameters.Add(clave);
+                    SqlParameter res = new SqlParameter("@resultado", SqlDbType.VarChar, 1);
+                    res.Direction = ParameterDirection.Output;
+                    cmd.Parameters.Add(res);
+                    SqlParameter nomb = new SqlParameter("@nombre", SqlDbType.VarChar, 160);
+                    nomb.Direction = ParameterDirection.Output;
+                    cmd.Parameters.Add(nomb);
+
+                    cone.Open();
+                    cmd.ExecuteNonQuery();
+
+
+                    string nivel = (string)cmd.Parameters["@resultado"].Value;
+                    string nombre = (string)cmd.Parameters["@nombre"].Value;
+
+
+                    //if(ValidateUserPass())
+
+
+
+                    if (nivel == "9")
+                    {
+                        MessageBox.Show("Usuario o Clave incorrecto... Intente otra vez.");
+                        ingreso.logs("ING-02", t1.Text, 1);
+                    }
+                    else
+                    {
+                        if (nivel == "2" || nivel == "3")
+                        {
+                            ingreso.logs("ING-00", t1.Text, 0);
+                            Program.nivel = Int32.Parse(nivel);
+                            Program.usuario = t1.Text;
+                            MessageBox.Show("Bienvenido al sistema " + nombre);
+                            FormPrincipal fp = new FormPrincipal();
+                            this.Hide();
+                            fp.ShowDialog();
+                            this.Close();
+                        }
+                        else
+                        {
+                            ingreso.logs("ING-03", t1.Text, 0);
+                            MessageBox.Show(" " + nivel);
+                        }
+                    }
+                }
+                else
+                {
+                    //poner aca la Excepcion
+                    MessageBox.Show("Usuario no Autorizado, Contactese con el administrador : " + t1.Text, "Autentificación Incorrecta");
+
+                }
+                
+            }
+            catch (SqlException ex)
+            {
+                ingreso.logs("ING-01",t1.Text,1);
+                MessageBox.Show("Error al intentar ingresar.\n"+ex.Message);
+            }
+            finally
+            {
+                cone.Close();
+            }
+        }
+
+
+        //Verificación del usuario en la BD en la tabla de USUARIO
+        public Boolean validacion(string userName)
+        {
+
+            Boolean estado = false;
+            string userName1;
+            userName1 = userName.Replace("BTBNET\\", "").ToUpper();
+            String query = "SELECT usuario from TBLUSUARIOS where usuario = '" + userName + "';";
+            cone.Open();
+            SqlCommand cmd = new SqlCommand(query, cone);
+            userName = (string)cmd.ExecuteScalar();
+            cone.Close();
+            //userName = userName.Replace("BTBNET\\", "").ToUpper();
+            //userName1 = userName;
+            if (userName != userName1)
+            {
+                estado = false;
+            }
+            else
+            {
+                estado = true;
+            }
+
+            return estado;
+        }
+
+        //validar al usuario con credenciales de Dominio
+        private bool ValidateUserPass(string userName, string userPass)
+        {
+            var domainContext = new PrincipalContext(ContextType.Domain);
+            return domainContext.ValidateCredentials(userName, userPass);
+
+        }
+/*********************************************************************************************************************/
+
